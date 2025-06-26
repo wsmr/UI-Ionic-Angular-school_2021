@@ -15,6 +15,15 @@
 
 ---
 
+
+## Demo
+Here's a quick look at the web application:
+
+![Demo](public/home.png)
+
+
+---
+
 ## Project Overview
 
 This is an **Ionic Angular** project created in **2021** for Ionic Angular UI School. Ionic is a popular framework for building cross-platform mobile applications using web technologies (HTML, CSS, JavaScript/TypeScript).
